@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="resizable" type="boolean" value="false"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jLabel1" alignment="0" max="32767" attributes="0"/>
+          <Group type="102" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="jLabel2" min="-2" pref="237" max="-2" attributes="0"/>
+                      <EmptySpace max="32767" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                      <Component id="BackButton" min="-2" pref="116" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="409" max="-2" attributes="0"/>
+                      <Component id="NextButton" min="-2" pref="116" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="16" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="Burning" alignment="0" max="32767" attributes="0"/>
+                          <Component id="PainInUrination" alignment="0" max="32767" attributes="0"/>
+                          <Component id="Vomiting" alignment="0" max="32767" attributes="0"/>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="FeverChills" min="-2" pref="197" max="-2" attributes="0"/>
+                              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                          </Group>
+                          <Component id="BloodInUrine" alignment="0" max="32767" attributes="0"/>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="SwellingOfAnkles" min="-2" pref="202" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="17" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="PinkRedBrownUrine" alignment="0" min="-2" pref="174" max="-2" attributes="0"/>
+                          <Component id="CloudyUrine" alignment="0" min="-2" pref="195" max="-2" attributes="0"/>
+                          <Component id="WeightLoss" alignment="0" min="-2" pref="225" max="-2" attributes="0"/>
+                          <Component id="PelvisPain" min="-2" pref="195" max="-2" attributes="0"/>
+                          <Component id="PainInRIbs" alignment="0" min="-2" pref="155" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="Fatigue" max="32767" attributes="0"/>
+                          <Component id="NightSweat" min="-2" max="-2" attributes="0"/>
+                          <Component id="AbdomenPain" min="-2" max="-2" attributes="0"/>
+                          <Component id="FeelingShaky" min="-2" pref="157" max="-2" attributes="0"/>
+                          <Component id="Nausea" alignment="0" min="-2" pref="157" max="-2" attributes="0"/>
+                          <Component id="FrequentUrination" alignment="0" min="-2" pref="130" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="9" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="jLabel1" min="-2" pref="135" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="11" max="-2" attributes="0"/>
+              <Component id="jLabel2" min="-2" pref="38" max="-2" attributes="0"/>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="2" attributes="0">
+                  <Component id="Burning" alignment="2" min="-2" max="-2" attributes="0"/>
+                  <Component id="CloudyUrine" alignment="2" min="-2" max="-2" attributes="0"/>
+                  <Component id="FeelingShaky" alignment="2" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="FeverChills" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="PainInRIbs" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="AbdomenPain" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="2" attributes="0">
+                  <Component id="PainInUrination" alignment="2" min="-2" max="-2" attributes="0"/>
+                  <Component id="PinkRedBrownUrine" alignment="2" min="-2" max="-2" attributes="0"/>
+                  <Component id="Nausea" alignment="2" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="2" attributes="0">
+                  <Component id="Vomiting" alignment="2" min="-2" max="-2" attributes="0"/>
+                  <Component id="PelvisPain" alignment="2" min="-2" max="-2" attributes="0"/>
+                  <Component id="FrequentUrination" alignment="2" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="BloodInUrine" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="WeightLoss" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Fatigue" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="SwellingOfAnkles" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="NightSweat" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="BackButton" alignment="3" min="-2" pref="49" max="-2" attributes="0"/>
+                  <Component id="NextButton" alignment="3" min="-2" pref="49" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="0" pref="11" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/virtualHospital/Images/maintitle.png"/>
+        </Property>
+        <Property name="toolTipText" type="java.lang.String" value=""/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Please Select Your Symptoms"/>
+        <Property name="toolTipText" type="java.lang.String" value=""/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="Burning">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Burning while Urinating"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="CloudyUrine">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Cloudy Smelly Urine"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="FeelingShaky">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Feeling Shaky"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="WeightLoss">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Weight Loss"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="FeverChills">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Fever/Chills"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="FeverChillsActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="PainInRIbs">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Pain below Ribs in side"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="AbdomenPain">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Pain in Lower Abdomen"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="Vomiting">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Vomiting"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="PelvisPain">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Pain in Pelvis"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="NightSweat">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Night Sweat"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="FrequentUrination">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Frquent Urination"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="PainInUrination">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Pain in Urination"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="PinkRedBrownUrine">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Pink,Red or Brown Urine"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="Nausea">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Nausea"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="Fatigue">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Fatigue"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="SwellingOfAnkles">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Swelling of Ankles"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="BloodInUrine">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Blood In Urine"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="BackButton">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="14" style="1"/>
+        </Property>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/virtualHospital/Images/BackBUtton.png"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Back"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="BackButtonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="NextButton">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="14" style="1"/>
+        </Property>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/virtualHospital/Images/nextButton.png"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Next"/>
+        <Property name="name" type="java.lang.String" value="" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="NextButtonActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>

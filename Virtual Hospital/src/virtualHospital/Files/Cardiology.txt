@@ -1,0 +1,4 @@
+Antihypertensive drug,Perindopril,Temisatan,Enalapril
+Tab. Rapivab,Visit Physician Severe Case!!
+Thrombolytics,Aspirin,Beta Blockers
+Decrease the amount of fluid in circulation and in the lungs,Keep the heartbeat regular,Lopressor

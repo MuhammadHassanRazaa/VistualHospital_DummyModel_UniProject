@@ -1,0 +1,8 @@
+Audiometry,Hearing aids
+Tab. Augmentin,Tab. Nims
+Drops. gentamycin
+Drops. Ofloxacin,Oral Medication
+Tab. Rigix,Arinac Forte,Leaflox
+Tab. Rigix,Arinac Forte
+Tab. Rigix,Leaflox,Surgery Must
+Tab. Erothymycine,Rigix,Arinac Forte,Surgery Must

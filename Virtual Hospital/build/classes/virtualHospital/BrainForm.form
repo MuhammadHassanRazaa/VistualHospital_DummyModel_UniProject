@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="resizable" type="boolean" value="false"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="true"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jLabel1" alignment="0" max="32767" attributes="0"/>
+          <Group type="102" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="jLabel2" min="-2" pref="237" max="-2" attributes="0"/>
+                      <EmptySpace max="32767" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                      <Component id="BackButton" min="-2" pref="116" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="409" max="-2" attributes="0"/>
+                      <Component id="NextButton" min="-2" pref="116" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="16" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="Headache" alignment="0" max="32767" attributes="0"/>
+                          <Component id="ChangeINSPeech" alignment="0" max="32767" attributes="0"/>
+                          <Component id="LossOfConsciousness" alignment="0" max="32767" attributes="0"/>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="PersonalityChange" min="-2" pref="197" max="-2" attributes="0"/>
+                              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                          </Group>
+                          <Component id="PoorDicision" alignment="0" max="32767" attributes="0"/>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="Irritability" min="-2" pref="202" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="17" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="LossOfCoordination" alignment="0" min="-2" pref="174" max="-2" attributes="0"/>
+                          <Component id="JointPain" alignment="0" min="-2" pref="195" max="-2" attributes="0"/>
+                          <Component id="Confusion" alignment="0" min="-2" pref="124" max="-2" attributes="0"/>
+                          <Component id="InvoluntryTwiching" alignment="0" min="-2" pref="225" max="-2" attributes="0"/>
+                          <Component id="WalkingDifficulty" min="-2" pref="195" max="-2" attributes="0"/>
+                          <Component id="Fever" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="StiffNeck" max="32767" attributes="0"/>
+                          <Component id="MusclePain" min="-2" max="-2" attributes="0"/>
+                          <Component id="Drowsiness" min="-2" max="-2" attributes="0"/>
+                          <Component id="Seizures" min="-2" pref="157" max="-2" attributes="0"/>
+                          <Component id="SLowMovement" alignment="0" min="-2" pref="157" max="-2" attributes="0"/>
+                          <Component id="Dizziness" alignment="0" min="-2" pref="130" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="9" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="jLabel1" min="-2" pref="135" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="11" max="-2" attributes="0"/>
+              <Component id="jLabel2" min="-2" pref="38" max="-2" attributes="0"/>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="2" attributes="0">
+                  <Component id="Headache" alignment="2" min="-2" max="-2" attributes="0"/>
+                  <Component id="JointPain" alignment="2" min="-2" max="-2" attributes="0"/>
+                  <Component id="Seizures" alignment="2" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="PersonalityChange" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Confusion" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Drowsiness" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="2" attributes="0">
+                  <Component id="ChangeINSPeech" alignment="2" min="-2" max="-2" attributes="0"/>
+                  <Component id="LossOfCoordination" alignment="2" min="-2" max="-2" attributes="0"/>
+                  <Component id="SLowMovement" alignment="2" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="2" attributes="0">
+                  <Component id="LossOfConsciousness" alignment="2" min="-2" max="-2" attributes="0"/>
+                  <Component id="WalkingDifficulty" alignment="2" min="-2" max="-2" attributes="0"/>
+                  <Component id="Dizziness" alignment="2" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="PoorDicision" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="InvoluntryTwiching" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="StiffNeck" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Irritability" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="MusclePain" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Fever" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="BackButton" alignment="3" min="-2" pref="49" max="-2" attributes="0"/>
+                  <Component id="NextButton" alignment="3" min="-2" pref="49" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="0" pref="11" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/virtualHospital/Images/maintitle.png"/>
+        </Property>
+        <Property name="toolTipText" type="java.lang.String" value=""/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Please Select Your Symptoms"/>
+        <Property name="toolTipText" type="java.lang.String" value=""/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="Headache">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Headache"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JointPain">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Joint pain"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="Seizures">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Seizures"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="InvoluntryTwiching">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Involuntary Twiching"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="PersonalityChange">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Personality Change"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="PersonalityChangeActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="Confusion">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Confusion"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="Drowsiness">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Drowsiness"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="LossOfConsciousness">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Loss of Consciousness"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="WalkingDifficulty">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Walking Difficulty"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="MusclePain">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Muscle Pain"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="Dizziness">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Dizziness"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="ChangeINSPeech">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Chnage in Speech or Vision"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="LossOfCoordination">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Loss of Coordination"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="SLowMovement">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Slow Movement"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="StiffNeck">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Stiff Neck"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="Irritability">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Irritability"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="PoorDicision">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Poor Decision Making"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="BackButton">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="14" style="1"/>
+        </Property>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/virtualHospital/Images/BackBUtton.png"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Back"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="BackButtonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="NextButton">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="14" style="1"/>
+        </Property>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/virtualHospital/Images/nextButton.png"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Next"/>
+        <Property name="name" type="java.lang.String" value="" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="NextButtonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="Fever">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Fever"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
